@@ -4,4 +4,5 @@
 
 Wesley Rafael\
 Rodrigo Bonzerr Lopez\
-Kervy Cantos
+Kervy Cantos\
+Chuck Estrada
