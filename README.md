@@ -6,5 +6,5 @@ Wesley Rafael\
 Rodrigo Bonzerr Lopez\
 Kervy Cantos\
 Chuck Estrada\
-Joseph Monton
+Joseph Monton\
 Lorenzo Canafranca\
