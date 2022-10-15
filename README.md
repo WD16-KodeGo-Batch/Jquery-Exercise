@@ -1,4 +1,4 @@
 # Jquery-Exercise
 # Project Contributors
-Wesley Rafael
+Wesley Rafael\
 Rodrigo Bonzerr Lopez
